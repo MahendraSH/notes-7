@@ -4,7 +4,7 @@ MODULE 1:
   - Defining Cloud Computing,
   - Cloud Types:
     - NIST Model,
-    - Cloud Cube Model,ṭ
+    - Cloud Cube Model,
     - Deployment models,
     - Service Models.
   - Characteristics of Cloud Computing,
