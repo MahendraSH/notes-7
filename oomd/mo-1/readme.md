@@ -1,4 +1,4 @@
-MODULE 1:
+## MODULE 1:
 
 - The Object Model:
   - The Foundations of the Object Model,
