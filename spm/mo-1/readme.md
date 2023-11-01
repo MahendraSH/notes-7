@@ -1,0 +1,3 @@
+MODULE 1:
+Introduction to Software Project Management : Introduction, Why is Software Project Management Important? What is a Project? Software Projects versus Other Types of Project, Contract Management and Technical Project Management, Activities Covered by Software Project Management, Plans, Methods and Methodologies, Some Ways of Categorizing Software Projects, Project Evaluation and Programme Management, Overview of Project Planning.
+SLE: Some ways of categorizing Software Projects
