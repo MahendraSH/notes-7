@@ -1,4 +1,4 @@
-# MODULE 2:
+# MODULE 2: (Book 2 ch-2)
 
 - Computer Clusters for Scalable Parallel Computing:
 
